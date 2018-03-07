@@ -1,0 +1,47 @@
+/**
+ * My custom styles here.
+ */
+ 
+img{
+max-width: 100%;
+height: auto;
+}
+
+ul.menu {
+text-align: center!important;
+}
+
+.nav li, .nav ul.menu li {
+float:none !important;
+display:inline-block !important;
+}
+
+.navbar-nav{
+	float:none !important;
+}
+
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav {
+	font-family:proxima-nova, sans-serif;
+}
+
+.content{
+    width:90%;
+	float:none;
+	display:inline-block;
+}
+
+.jumbotron{
+	background-color:#027BAF;
+	padding-bottom:90px;
+}
+.header-text{
+	color:#ffffff;
+}
+.header-text h1{
+	font-weight:600;
+	font-size:50px;
+	
+}
+.btn-primary{
+	border-radius: 20px;
+}
